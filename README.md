@@ -1,14 +1,11 @@
 
 ## Hi 👋
-<p align = center>
-    <img align="center" height = 300 src = "https://media1.giphy.com/media/dWesBcTLavkZuG35MI/source.gif">
-    <p align="center">
-    I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Data Science self learner!
-    </p>
-</p>
+
+I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Data Science self learner!
+
 
 ## Contact with me
-<p align=center>
+<p align=midlle>
     <a href = "mailto:brsss@ic.ufal.br?subject=Olá,%20Bruno!%20" title="E-mail">
         <img height=25 align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brsss@ic.ufal.br?subject=Olá,%20Bruno!%20">
     </a>
