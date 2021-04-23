@@ -8,7 +8,7 @@ I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade
         <img height=25 align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brsss@ic.ufal.br?subject=Olá,%20Bruno!%20">
     </a>
     <a href = "https://www.linkedin.com/in/brsevero/" title="linkedin">
-        <img height=25 aligh="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img height=25 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
 
