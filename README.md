@@ -1,8 +1,10 @@
 
-### Hi 👋
+## Hi 👋
 I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Data Science self learner!
 
-### My Github Statistics 
+## Contact with me
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](brunorafaelsevero22@gmail.com "gmail")
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=brsevero&count_private=true&show_icons=true&theme=react">
