@@ -8,7 +8,7 @@ I am Bruno Rafael Severo, i'm an Computer Science student at UFAL - Universidade
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=brsevero&count_private=true&show_icons=true&theme=dark">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsevero" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsevero" />
   </a>
 </p>
 <hr>
