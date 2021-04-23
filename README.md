@@ -3,11 +3,11 @@
 I am Bruno Rafael Severo, i'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Data Science self learner!
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=brsevero&count_private=true&show_icons=true&theme=dark">
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=brsevero&count_private=true&show_icons=true&theme=dark">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsevero&layout=compact" />
-  </a>
+        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsevero&layout=compact" />
+    </a>
 </p>
 
 
