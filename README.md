@@ -1,8 +1,8 @@
 
 ## Hi 👋
 <p align = center>
-I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Data Science self learner!
-    <img weith = 100 height = 100 src = "https://media1.giphy.com/media/dWesBcTLavkZuG35MI/source.gif">
+    I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Data Science self learner!
+    <img aligh="center" weith = 200 height = 200 src = "https://media1.giphy.com/media/dWesBcTLavkZuG35MI/source.gif">
 
 </p>
 
