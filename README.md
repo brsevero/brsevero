@@ -24,4 +24,4 @@ I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade
   </a>
 </p>
 
-
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brsevero&theme=react-dark)
