@@ -24,5 +24,4 @@ I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade
   </a>
 </p>
 
-![Github Activity Graph](https://shielded-tor-19298.herokuapp.com/graph?username=brsevero&theme=react-dark)
 
