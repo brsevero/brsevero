@@ -1,7 +1,7 @@
 
 ## Hi 👋
 
-I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas and I'm a Django and Python lover!
+I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas, currently working as a Quality Assurencer Tester and I'm a Django and Python lover!
 
 
 ## Contact with me
