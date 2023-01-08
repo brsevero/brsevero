@@ -1,14 +1,11 @@
 
 ## Hi 👋
 
-I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade Federal de Alagoas, currently working as a Quality Assurencer Tester and I'm a Django and Python lover!
+I am Bruno Rafael Severo, I'm an programmer, currently working as a Quality Assurencer Tester - QA!
 
 
 ## Contact with me
 <p align=midlle>
-    <a href = "mailto:brsss@ic.ufal.br?subject=Olá,%20Bruno!%20" title="E-mail">
-        <img height=25 align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brsss@ic.ufal.br?subject=Olá,%20Bruno!%20">
-    </a>
     <a href = "https://www.linkedin.com/in/brsevero/" title="linkedin">
         <img height=25 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -20,7 +17,7 @@ I am Bruno Rafael Severo, I'm an Computer Science student at UFAL - Universidade
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brsevero&count_private=true&show_icons=true&theme=react">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsevero&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsevero&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff&hide=r" />
   </a>
 </p>
 
